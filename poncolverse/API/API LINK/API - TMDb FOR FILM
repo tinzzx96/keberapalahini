@@ -1,0 +1,7 @@
+<!-- API FOR TMDb -->
+
+<!-- api dasar = ?api_key=abcd332244  -->
+
+<!-- api film populer = https://api.themoviedb.org/3/movie/popular?api_key=1ae43be23c47bdb5684288efa521b6cc&language=en-US&page=1  -->
+
+<!-- api semua film = https://api.themoviedb.org/3/discover/movie?api_key=1ae43be23c47bdb5684288efa521b6cc&sort_by=popularity.desc&language=en-US&page=1 -->
